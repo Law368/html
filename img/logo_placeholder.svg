@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 69 69" width="69" height="69">
+	<title>logo placeholder</title>
+	<defs>
+		<image  width="69" height="69" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEUAAABFAQMAAAAmQ7lqAAAAAXNSR0IB2cksfwAAAANQTFRF////p8QbyAAAAA9JREFUeJxjYBgFo2AoAQACsgABcGA93QAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="logo placeholder" href="#img1" x="0" y="0" />
+</svg>
